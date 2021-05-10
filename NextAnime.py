@@ -3,7 +3,6 @@ from random import randint
 
 root = Tk()
 root.title('Picking something')
-# root.iconbitmap('d:icon.ico')
 root.geometry("400x400")
 
 
